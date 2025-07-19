@@ -1,0 +1,98 @@
+[
+  {
+    "console_tag": "D.Zidane",
+    "nombre": "dino",
+    "partidos": 10,
+    "goles": 6,
+    "asistencias": 20,
+    "promedio_valoracion": 8.7
+  },
+  {
+    "console_tag": "k.embape",
+    "nombre": "cathy",
+    "partidos": 10,
+    "goles": 30,
+    "asistencias": 5,
+    "promedio_valoracion": 9.6
+  },
+  {
+    "console_tag": "v.912",
+    "nombre": "valen",
+    "partidos": 10,
+    "goles": 22,
+    "asistencias": 7,
+    "promedio_valoracion": 9.1
+  },
+  {
+    "console_tag": "xXJuanDiegoXx",
+    "nombre": "carvi",
+    "partidos": 9,
+    "goles": 3,
+    "asistencias": 15,
+    "promedio_valoracion": 8.5
+  },
+  {
+    "console_tag": "waza",
+    "nombre": "waza",
+    "partidos": 10,
+    "goles": 3,
+    "asistencias": 5,
+    "promedio_valoracion": 7.4
+  },
+  {
+    "console_tag": "s.vicen",
+    "nombre": "vicen",
+    "partidos": 9,
+    "goles": 0,
+    "asistencias": 0,
+    "promedio_valoracion": 7.1
+  },
+  {
+    "console_tag": "Silva",
+    "nombre": "Juampis",
+    "partidos": 6,
+    "goles": 1,
+    "asistencias": 0,
+    "promedio_valoracion": 7.1
+  },
+  {
+    "console_tag": "herrera",
+    "nombre": "facu",
+    "partidos": 8,
+    "goles": 2,
+    "asistencias": 0,
+    "promedio_valoracion": 7.1
+  },
+  {
+    "console_tag": "Magic",
+    "nombre": "churrasco",
+    "partidos": 9,
+    "goles": 0,
+    "asistencias": 1,
+    "promedio_valoracion": 6.8
+  },
+  {
+    "console_tag": "c.66",
+    "nombre": "Santy-Tryhard",
+    "partidos": 7,
+    "goles": 5,
+    "asistencias": 3,
+    "promedio_valoracion": 8.4
+  },
+  {
+    "console_tag": "david prime",
+    "nombre": "luis",
+    "partidos": 6,
+    "goles": 0,
+    "asistencias": 0,
+    "promedio_valoracion": 6.9
+  },
+  {
+    "console_tag": "l. uzi vert",
+    "nombre": "nico",
+    "partidos": 5,
+    "goles": 0,
+    "asistencias": 0,
+    "promedio_valoracion": 7.6
+  }
+]
